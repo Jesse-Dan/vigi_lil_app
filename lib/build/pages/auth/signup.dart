@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vigi_lil_app/build/models/registration/payload.dart';
 import 'package:vigi_lil_app/build/pages/auth/login.dart';
-
 import '../../api/api.dart';
 
 class RegisterPage extends StatelessWidget {
